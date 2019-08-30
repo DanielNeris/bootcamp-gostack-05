@@ -4,7 +4,8 @@ import { Link } from 'react-router-dom';
 
 import api from '../../services/api';
 
-import { Container, Form, SubmitButton, List } from './styles';
+import Container from '../../components/Container';
+import { Form, SubmitButton, List } from './styles';
 
 export default class Main extends Component {
   constructor(props) {
@@ -91,7 +92,9 @@ export default class Main extends Component {
           {repositories.map(item => (
             <li key={item.name}>
               <span>{item.name}</span>
-              <Link to={`/repository/${encodeURIComponent(item.name)}`}>Detalhes</Link>
+              <Link to={`/repository/${encodeURIComponent(item.name)}`}>
+                Detalhes
+              </Link>
             </li>
           ))}
         </List>
