@@ -30,27 +30,25 @@ The GitRepositories is a project to list repositories and issues for github user
 
 This project was developed with the following technologies:
 
-- [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
+- [Yarn](https://yarnpkg.com/)
 
 ## :information_source: How to use
 
-To clone and run this application, you will need [Git](https://git-scm.com), [Node.js][nodejs] e [Yarn][yarn] installed on your computer.
+To clone and run this application, you will need [Git](https://git-scm.com), [ReactJS](https://github.com/facebook/create-react-app) e [Yarn][yarn] installed on your computer.
 
 Through command line:
 
 ```bash
-# Clone this repository
-$ https://github.com/DanielNeris/https://github.com/DanielNeris/bootcamp-gostack-05.git
-# Go to backend
-$ cd backend
+# Clone this repositori
+$ https://github.com/DanielNeris/Rocketfy.git
 # Install dependences
 $ yarn install
 # Start the servidor
-$ yarn dev
+$ yarn start
 ```
 
-[nodejs]: https://nodejs.org/
+[reactjs]: https://github.com/facebook/create-react-app
 [yarn]: https://yarnpkg.com/
 [vc]: https://code.visualstudio.com/
 
