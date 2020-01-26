@@ -17,7 +17,7 @@
 <p align="center">
   <img 
        alt="Frontend" 
-       src="https://github.com/DanielNeris/portifolio/blob/master/src/assets/projects/rocketshoes.jpg" 
+       src="https://github.com/DanielNeris/portifolio/blob/master/src/assets/projects/gitrepositories.jpg" 
        width="100%"
   />
 </p>
