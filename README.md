@@ -24,7 +24,7 @@
 
 ## 💻 Project
 
-The RocketShoes is an application that simulates an e-commerce to buy tennis shoes.
+The GitRepositories is a project to list repositories and issues for github users.
 
 ## :rocket: Technology
 
