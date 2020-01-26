@@ -41,7 +41,7 @@ Through command line:
 
 ```bash
 # Clone this repositori
-$ https://github.com/DanielNeris/Rocketfy.git
+$ https://github.com/DanielNeris/bootcamp-gostack-05.git
 # Install dependences
 $ yarn install
 # Start the servidor
