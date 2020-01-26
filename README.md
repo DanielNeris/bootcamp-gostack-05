@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="RocketShoes" title="#delicinha" src="https://camo.githubusercontent.com/51f01784789aa08a2581d0a73dbb4bdda1628e41/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f313130382f313130383833322e737667" width="100px" />
+  GitRepositories
 </h1>
 
 <h4 align="center">
@@ -40,8 +40,8 @@ To clone and run this application, you will need [Git](https://git-scm.com), [No
 Through command line:
 
 ```bash
-# Clone this repositori
-$ https://github.com/DanielNeris/bootcamp-gostack-07.git
+# Clone this repository
+$ https://github.com/DanielNeris/https://github.com/DanielNeris/bootcamp-gostack-05.git
 # Go to backend
 $ cd backend
 # Install dependences
